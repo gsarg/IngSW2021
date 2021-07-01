@@ -1,4 +1,4 @@
-package tpFinal;
+package tpfinal;
 
 public class Calculadora {
 
