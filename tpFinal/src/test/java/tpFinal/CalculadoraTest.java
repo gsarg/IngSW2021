@@ -12,3 +12,4 @@ public class CalculadoraTest {
 		AssertJUnit.assertEquals(result, calculadora.sumar(3, 2));
 	}
 }
+
