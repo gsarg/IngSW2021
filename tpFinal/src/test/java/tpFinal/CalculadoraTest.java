@@ -3,8 +3,6 @@ package tpFinal;
 import org.testng.AssertJUnit;
 import org.testng.annotations.Test;
 
-import tpFinal.Calculadora;
-
 public class CalculadoraTest {
 
 	@Test
