@@ -1,9 +1,9 @@
-package tpfinal;
+package tpFinal;
 
 import org.testng.AssertJUnit;
 import org.testng.annotations.Test;
 
-import tpfinal.Calculadora;
+import tpFinal.Calculadora;
 
 public class CalculadoraTest {
 
